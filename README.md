@@ -1,4 +1,4 @@
 # Generify
 
-A song recommendation app, which is built with Flutter. 
+A song recommendation app, which is being built with Flutter. 
 In progress...
